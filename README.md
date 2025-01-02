@@ -12,6 +12,7 @@ python IP_extraction.py -d csv -i 8 -o result.txt
 - -i   指定ip在表格中的列数，例如onforall扫描之后的子域名，ip默认在第8列
 - -o   将所有ip输出到result.txt
 
+![](https://raw.githubusercontent.com/xhmcc/Oneforall-IP-extraction/refs/heads/main/images/1e7b61349fdb7b8ff94206d419193ba.png)
 ## 脚本演示： ##
 
 首先将脚本和待提取ip的文件夹放在同目录下
