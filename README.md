@@ -1,5 +1,6 @@
 # Oneforall-IP-extraction
 Oneforall批量扫描结束之后，可用此脚本提取文件夹下所有表中的ip
+默认去重，并且去掉内网IP
 
 ## 使用命令： ##
 python IP_extraction.py -d csv -i 8 -o result.txt
