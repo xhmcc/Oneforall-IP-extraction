@@ -1,4 +1,6 @@
 # Oneforall-IP-extraction
+攻防演练期间，使用oneforall批量跑子域名时，一个个进行提取ip较为麻烦，才写了此工具，方便提取结果IP
+
 Oneforall批量扫描结束之后，可用此脚本提取文件夹下所有表中的ip
 默认去重，并且去掉内网IP
 
