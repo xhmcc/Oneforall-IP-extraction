@@ -19,11 +19,11 @@ python IP_extraction.py -d csv -i 8 -o result.txt
 
 ![](https://raw.githubusercontent.com/xhmcc/Oneforall-IP-extraction/refs/heads/main/images/089be35bb16ae5597fd7cb80df377c9.png)
 
-文件夹下为oneforall的子域名结果
+文件夹下为oneforall获取的子域名结果
 
 ![](https://raw.githubusercontent.com/xhmcc/Oneforall-IP-extraction/refs/heads/main/images/cdad5cca3c53620933e5bef7701c2e1.png)
 
--i指定第8行IP
+-i 指定第8行IP
 
 ![](https://raw.githubusercontent.com/xhmcc/Oneforall-IP-extraction/refs/heads/main/images/92ed5e12942fd483c5dba5fa8f2377d.png)
 
